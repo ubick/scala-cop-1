@@ -1,0 +1,8 @@
+/logs/
+/project/*-shim.sbt
+/project/project/
+/project/target/
+/project/.sbtserver.lock
+/target/
+/libexec/
+.idea
